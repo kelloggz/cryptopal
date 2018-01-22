@@ -14,7 +14,6 @@ def toBase(str):
     return basestr
 
 string=input()
-stringtest=binascii.unhexlify(string)
 
 expected=b'SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t'
 
